@@ -11,3 +11,7 @@ New Images!
 New Code!
 
 404 Bug Fixed!
+
+NOTE!
+
+When uploading onto a 7m.pl website, ads will pop-up in places!
